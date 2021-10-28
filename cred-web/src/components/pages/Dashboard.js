@@ -11,7 +11,7 @@ export default function Dashboard() {
                     </h1>
                     <div className={"p-4 flex flex-col gap-4 bg-indigo-900 rounded-xl"}>
                         <h1 class="text-center text-2xl font-light leading-normal mt-0 mb-2 text-gray-300">
-                            Plan One
+                            Plan One | 021 274 8993 | Expires 20/4/2021
                         </h1>
                         <div className={"flex flex-row gap-32 rounded-xl"}>
                             <PlanUsageCard title={"Data"} color={"bg-green-500"}/>
